@@ -24,7 +24,7 @@
 
 <p align="left">
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img-premium.flaticon.com/png/128/3098/premium/3098090.png?token=exp=1631697295~hmac=aef47c6e7d2bfb376139c76e1a07e163" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.digitalocean.com/" target="_blank"><i class="fab fa-digital-ocean"></i></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
