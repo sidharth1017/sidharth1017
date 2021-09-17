@@ -53,8 +53,10 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCKenwoqsIRKQUD_psvURGlw)
 
-
+## 📈 Stats
 ![Sidharth Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharth1017&show_icons=true&theme=algolia)
+![Sidharth Verma's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sidharth1017&theme=highcontrast)
+
 
 [website]: https://www.linkedin.com/in/sidharth-verma-3830801b2/
 [course]: https://www.youtube.com/channel/UCKenwoqsIRKQUD_psvURGlw
