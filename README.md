@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/youtube/channel/subscribers/UCKenwoqsIRKQUD_psvURGlw?sub_confirmation=1?style=flat-square)](https://www.youtube.com/channel/UCKenwoqsIRKQUD_psvURGlw?sub_confirmation=1)
 [![Connect Linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sidharth-verma-3830801b2/)
-![Profile views]https://komarev.com/ghpvc/?username=sidharth1017&color=green&style=flat-square)
+[![Profile views]](https://komarev.com/ghpvc/?username=sidharth1017&color=green&style=flat-square)
 
 ## I'm a FullStack Web Developer, Java Developer, Python Developer & DSA Learner!!
 
