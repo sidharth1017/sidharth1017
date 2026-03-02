@@ -9,7 +9,7 @@ Currently working on APIs, automation workflows, third-party integrations, and p
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/fluency/2x/linkedin.png" />][linkedin]
-[<img align="left" alt="Truto" width="22px" src="https://truto.one/blog/images/logos/truto_logo_black.svg" />][Truto Blog]
+[<img align="left" alt="Truto" width="22px" src="https://truto.one/blog/favicon.png" />][Truto Blog]
 
 
 <br>
